@@ -1,2 +1,2 @@
-# day4
-Day 4 of using Customtkinter
+# Day 4
+Tips calculator
